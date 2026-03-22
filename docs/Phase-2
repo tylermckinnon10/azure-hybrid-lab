@@ -1,0 +1,7 @@
+## Phase 2 - Hybrid VPN (Completed)
+
+- Built Azure VPN Gateway
+- Configured Local Network Gateway
+- Implemented site-to-site IPSec VPN
+- Used VTI (route-based) configuration
+- Enabled secure communication between on-prem and Azure network
